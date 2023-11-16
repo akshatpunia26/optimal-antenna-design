@@ -21,16 +21,39 @@ def calculate_dimensions(dielectric_constant, h, f):
     L = L * 10**3
     return W, L
 
-st.title('Microstrip Antenna Dimension Calculator')
-st.image('antenna.png')
+st.title('Optimistation of Antenna Design')
+st.header('Using Machine Learning Techniques to Optimise Antenna Design')
+st.caption('Shiv Nadar University - Electrical Engineering Major Project')
+st.sidebar.write('List of Contents')
+st.sidebar.button('Microstrip Patch Antenna Calculator')
 
+st.sidebar.button('Antenna Design and Dataset')
+st.sidebar.button('Training Model')
+st.sidebar.button('Comparison and Mean percentage errors')
+st.sidebar.button('Sandbox')
 
-dielectric_constant = st.number_input('Dielectric Constant', min_value=1.0, value=4.4, step=0.1)
-dielectric_height = st.number_input('Dielectric Height (mm)', min_value=0.1, value=1.6, step=0.1)
-frequency = st.number_input('Operation Frequency (GHz)', min_value=0.1, value=2.4, step=0.1)
+col1, col2 = st.columns(2)
+with col1:
+    st.subheader('Microstrip Antenna Dimension Calculator')
+    st.image('antenna.png', width=200)
+
+with col2:
+    dielectric_constant = st.number_input('Dielectric Constant', min_value=1.0, value=4.4, step=0.1)
+    dielectric_height = st.number_input('Dielectric Height (mm)', min_value=0.1, value=1.6, step=0.1)
+    frequency = st.number_input('Operation Frequency (GHz)', min_value=0.1, value=2.4, step=0.1)
 
 if st.button('Calculate'):
     width, length = calculate_dimensions(dielectric_constant, dielectric_height, frequency)
     st.write(f'Width: {width:.2f} mm')
     st.write(f'Length: {length:.2f} mm')
 
+st.divider()
+
+st.subheader('Antenna Design and Dataset')
+st.divider()
+st.subheader('Training Model')
+st.divider()
+st.subheader('Comparison and Mean percentage errors')
+st.divider()
+st.subheader('Sandbox')
+st.divider()
