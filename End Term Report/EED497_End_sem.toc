@@ -1,0 +1,23 @@
+\contentsline {chapter}{\numberline {1}Introduction}{9}{}%
+\contentsline {section}{\numberline {1.1}Background and Motivation}{9}{}%
+\contentsline {section}{\numberline {1.2}Research Objective}{9}{}%
+\contentsline {chapter}{\numberline {2}Literature Survey}{10}{}%
+\contentsline {chapter}{\numberline {3}Work Done}{11}{}%
+\contentsline {section}{\numberline {3.1}Designing the Antenna and Preparing Dataset}{11}{}%
+\contentsline {subsection}{\numberline {3.1.1}Calculating Antenna Parameters}{11}{}%
+\contentsline {subsection}{\numberline {3.1.2}Dataset Preparation and Antenna Simulation}{13}{}%
+\contentsline {section}{\numberline {3.2}Machine Learning Model Tuning}{17}{}%
+\contentsline {subsection}{\numberline {3.2.1}Dataset Compilation}{17}{}%
+\contentsline {subsection}{\numberline {3.2.2}Model Selection}{17}{}%
+\contentsline {subsection}{\numberline {3.2.3}Data Preparation}{17}{}%
+\contentsline {subsubsection}{Splitting the Data}{17}{}%
+\contentsline {subsection}{\numberline {3.2.4}Model Training}{17}{}%
+\contentsline {subsubsection}{Performance Evaluation}{17}{}%
+\contentsline {subsection}{\numberline {3.2.5}Model Evaluation and Visualization}{17}{}%
+\contentsline {subsection}{\numberline {3.2.6}Code Implementation}{18}{}%
+\contentsline {section}{\numberline {3.3}Simulating Antennas on Predicted Values}{18}{}%
+\contentsline {subsection}{\numberline {3.3.1}Limitations}{23}{}%
+\contentsline {section}{\numberline {3.4}Online Dashboard and Public Repository}{24}{}%
+\contentsline {chapter}{\numberline {4}Conclusion}{25}{}%
+\contentsline {chapter}{\numberline {5}Future Prospects}{26}{}%
+\contentsline {chapter}{Bibliography}{28}{}%

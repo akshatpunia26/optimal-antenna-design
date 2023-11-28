@@ -1,0 +1,567 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.20)  28 NOV 2023 11:17
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**EED497_End_sem.tex
+(./EED497_End_sem.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box51
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
+\ttl@plus=\dimen141
+\ttl@minus=\dimen142
+\ttl@toksa=\toks16
+\titlewidth=\dimen143
+\titlewidthlast=\dimen144
+\titlewidthfirst=\dimen145
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen148
+\Gm@wd@mp=\dimen149
+\Gm@odd@mp=\dimen150
+\Gm@even@mp=\dimen151
+\Gm@layoutwidth=\dimen152
+\Gm@layoutheight=\dimen153
+\Gm@layouthoffset=\dimen154
+\Gm@layoutvoffset=\dimen155
+\Gm@dimlist=\toks19
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip52
+\LTright=\skip53
+\LTpre=\skip54
+\LTpost=\skip55
+\LTchunksize=\count197
+\LTcapwidth=\dimen156
+\LT@head=\box52
+\LT@firsthead=\box53
+\LT@foot=\box54
+\LT@lastfoot=\box55
+\LT@gbox=\box56
+\LT@cols=\count198
+\LT@rows=\count199
+\c@LT@tables=\count266
+\c@LT@chunks=\count267
+\LT@p@ftn=\toks20
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count268
+\float@exts=\toks21
+\float@box=\box57
+\@float@everytoks=\toks22
+\@floatcapt=\box58
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count269
+\l__pdf_internal_box=\box59
+)
+(./EED497_End_sem.aux
+
+LaTeX Warning: Label `fig:s1to2' multiply defined.
+
+
+LaTeX Warning: Label `fig:s1to2' multiply defined.
+
+
+LaTeX Warning: Label `fig:s1to2' multiply defined.
+
+
+LaTeX Warning: Label `fig:4ghz_inset1' multiply defined.
+
+
+LaTeX Warning: Label `fig:4ghz_inset2' multiply defined.
+
+
+LaTeX Warning: Label `fig:width_calculator' multiply defined.
+
+
+LaTeX Warning: Label `fig:4ghz_inset1' multiply defined.
+
+
+LaTeX Warning: Label `fig:4ghz_inset2' multiply defined.
+
+
+LaTeX Warning: Label `fig:width_calculator' multiply defined.
+
+
+LaTeX Warning: Label `fig:4ghz_inset1' multiply defined.
+
+
+LaTeX Warning: Label `fig:4ghz_inset2' multiply defined.
+
+
+LaTeX Warning: Label `fig:width_calculator' multiply defined.
+
+
+LaTeX Warning: Label `fig:4ghz_inset1' multiply defined.
+
+
+LaTeX Warning: Label `fig:4ghz_inset2' multiply defined.
+
+
+LaTeX Warning: Label `fig:width_calculator' multiply defined.
+
+
+LaTeX Warning: Label `fig:width_calculator' multiply defined.
+
+)
+\openout1 = `EED497_End_sem.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+ (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count270
+\scratchdimen=\dimen157
+\scratchbox=\box60
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count273
+\MPscratchDim=\dimen158
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks24
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=674.33032pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<logonew.jpg, id=1, 869.1672pt x 167.1846pt>
+File: logonew.jpg Graphic file (type jpg)
+<use logonew.jpg>
+Package pdftex.def Info: logonew.jpg  used on input line 51.
+(pdftex.def)             Requested size: 289.07999pt x 55.60475pt.
+[1
+
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logon
+ew.jpg>]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 71.
+
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 71.
+
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [2] [3]
+[4] [5] (./EED497_End_sem.toc)
+\tf@toc=\write3
+\openout3 = `EED497_End_sem.toc'.
+
+ [6
+
+] (./EED497_End_sem.lof)
+\tf@lof=\write4
+\openout4 = `EED497_End_sem.lof'.
+
+ [7
+
+]
+(./EED497_End_sem.lot)
+\tf@lot=\write5
+\openout5 = `EED497_End_sem.lot'.
+
+ [8
+
+]
+Chapter 1.
+[9
+
+]
+Chapter 2.
+No file EED497_End_sem.bbl.
+[10
+
+]
+Chapter 3.
+<patchcalculator.png, id=39, 319.1925pt x 222.8325pt>
+File: patchcalculator.png Graphic file (type png)
+<use patchcalculator.png>
+Package pdftex.def Info: patchcalculator.png  used on input line 173.
+(pdftex.def)             Requested size: 227.62206pt x 158.9058pt.
+[11
+
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} 
+<./patchcalculator.png>]
+<widthcalculator.png, id=46, 437.635pt x 383.4325pt>
+File: widthcalculator.png Graphic file (type png)
+<use widthcalculator.png>
+Package pdftex.def Info: widthcalculator.png  used on input line 197.
+(pdftex.def)             Requested size: 227.62206pt x 199.43285pt.
+
+./EED497_End_sem.tex:214: Undefined control sequence.
+l.214         \varepsilon_{\text
+                                {eff}} = \frac{\varepsilon_r + 1}{2} + \frac...
+
+? ret
+OK, entering \nonstopmode...
+./EED497_End_sem.tex:219: Undefined control sequence.
+l.219         L_{\text
+                      {eff}} = \frac{c}{2f_r \sqrt{\varepsilon_{\text{eff}}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./EED497_End_sem.tex:219: Undefined control sequence.
+<argument> 2f_r \sqrt {\varepsilon _{\text 
+                                           {eff}}}
+l.219 ...{c}{2f_r \sqrt{\varepsilon_{\text{eff}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[12 <./widthcalculator.png>]
+<4inset1.png, id=58, 156.585pt x 135.50626pt>
+File: 4inset1.png Graphic file (type png)
+<use 4inset1.png>
+Package pdftex.def Info: 4inset1.png  used on input line 234.
+(pdftex.def)             Requested size: 218.51521pt x 189.10574pt.
+<4inset2.png, id=59, 165.61874pt x 135.50626pt>
+File: 4inset2.png Graphic file (type png)
+<use 4inset2.png>
+Package pdftex.def Info: 4inset2.png  used on input line 241.
+(pdftex.def)             Requested size: 218.51521pt x 178.79434pt.
+<4inset3.png, id=60, 183.68625pt x 168.63pt>
+File: 4inset3.png Graphic file (type png)
+<use 4inset3.png>
+Package pdftex.def Info: 4inset3.png  used on input line 251.
+(pdftex.def)             Requested size: 218.51521pt x 200.61813pt.
+<8inset1.png, id=61, 159.59625pt x 147.55125pt>
+File: 8inset1.png Graphic file (type png)
+<use 8inset1.png>
+Package pdftex.def Info: 8inset1.png  used on input line 258.
+(pdftex.def)             Requested size: 218.51521pt x 202.02464pt.
+ [13 <./4inset1.png> <./4inset2.png> <./4inset3.png> <./8inset1.png>]
+<s1to2.png, id=70, 454.69875pt x 159.59625pt>
+File: s1to2.png Graphic file (type png)
+<use s1to2.png>
+Package pdftex.def Info: s1to2.png  used on input line 272.
+(pdftex.def)             Requested size: 364.19667pt x 127.83301pt.
+<s4to5.png, id=71, 454.69875pt x 168.63pt>
+File: s4to5.png Graphic file (type png)
+<use s4to5.png>
+Package pdftex.def Info: s4to5.png  used on input line 279.
+(pdftex.def)             Requested size: 364.19667pt x 135.06885pt.
+ [14 <./s1to2.png> <./s4to5.png>] [15] [16] [17]
+Overfull \hbox (242.53123pt too wide) in paragraph at lines 448--448
+[]\OT1/cmtt/m/n/12 X_rev_train, X_rev_test, y_rev_train, y_rev_test = train_tes
+t_split(X_rev, y_rev, test_size=0.2, random_state=42)[] 
+ []
+
+
+Overfull \hbox (66.42682pt too wide) in paragraph at lines 463--486
+ [][] 
+ []
+
+<1.png, id=86, 717.68124pt x 406.51875pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 490.
+(pdftex.def)             Requested size: 364.19667pt x 206.29832pt.
+<2.png, id=87, 720.6925pt x 406.51875pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 496.
+(pdftex.def)             Requested size: 364.19667pt x 205.4299pt.
+[18]
+<3.png, id=92, 717.68124pt x 401.5pt>
+File: 3.png Graphic file (type png)
+<use 3.png>
+Package pdftex.def Info: 3.png  used on input line 502.
+(pdftex.def)             Requested size: 364.19667pt x 203.75143pt.
+ [19 <./1.png>]
+<data14.png, id=100, 203.5605pt x 87.32625pt>
+File: data14.png Graphic file (type png)
+<use data14.png>
+Package pdftex.def Info: data14.png  used on input line 512.
+(pdftex.def)             Requested size: 218.52818pt x 142.28456pt.
+<pred14img.png, id=101, 210.7875pt x 201.75375pt>
+File: pred14img.png Graphic file (type png)
+<use pred14img.png>
+Package pdftex.def Info: pred14img.png  used on input line 519.
+(pdftex.def)             Requested size: 218.51909pt x 142.26411pt.
+<pred14.png, id=102, 454.69875pt x 177.66376pt>
+File: pred14.png Graphic file (type png)
+<use pred14.png>
+Package pdftex.def Info: pred14.png  used on input line 526.
+(pdftex.def)             Requested size: 364.19667pt x 142.30469pt.
+ [20 <./2.png> <./3.png>]
+<data45.png, id=108, 204.765pt x 84.315pt>
+File: data45.png Graphic file (type png)
+<use data45.png>
+Package pdftex.def Info: data45.png  used on input line 536.
+(pdftex.def)             Requested size: 218.52771pt x 142.26701pt.
+<pred45im.png, id=109, 220.825pt x 212.795pt>
+File: pred45im.png Graphic file (type png)
+<use pred45im.png>
+Package pdftex.def Info: pred45im.png  used on input line 543.
+(pdftex.def)             Requested size: 218.52643pt x 142.26993pt.
+<pred45.jpg, id=110, 606.265pt x 240.9pt>
+File: pred45.jpg Graphic file (type jpg)
+<use pred45.jpg>
+Package pdftex.def Info: pred45.jpg  used on input line 550.
+(pdftex.def)             Requested size: 364.19667pt x 144.71387pt.
+ [21 <./data14.png> <./pred14img.png> <./pred14.png> <./data45.png> <./pred45im
+.png>]
+<data76.png, id=118, 301.125pt x 96.36pt>
+File: data76.png Graphic file (type png)
+<use data76.png>
+Package pdftex.def Info: data76.png  used on input line 562.
+(pdftex.def)             Requested size: 218.52368pt x 142.26353pt.
+<pred76img.png, id=119, 228.855pt x 246.9225pt>
+File: pred76img.png Graphic file (type png)
+<use pred76img.png>
+Package pdftex.def Info: pred76img.png  used on input line 569.
+(pdftex.def)             Requested size: 218.52496pt x 142.2619pt.
+<pred76.jpg, id=120, 606.265pt x 216.81pt>
+File: pred76.jpg Graphic file (type jpg)
+<use pred76.jpg>
+Package pdftex.def Info: pred76.jpg  used on input line 576.
+(pdftex.def)             Requested size: 364.19667pt x 130.24248pt.
+<data88.png, id=121, 278.84175pt x 90.3375pt>
+File: data88.png Graphic file (type png)
+<use data88.png>
+Package pdftex.def Info: data88.png  used on input line 585.
+(pdftex.def)             Requested size: 218.52533pt x 142.27815pt.
+<pred88img.png, id=122, 149.358pt x 192.72pt>
+File: pred88img.png Graphic file (type png)
+<use pred88img.png>
+Package pdftex.def Info: pred88img.png  used on input line 592.
+(pdftex.def)             Requested size: 218.53488pt x 142.26355pt.
+<pred88.png, id=123, 454.69875pt x 159.59625pt>
+File: pred88.png Graphic file (type png)
+<use pred88.png>
+Package pdftex.def Info: pred88.png  used on input line 599.
+(pdftex.def)             Requested size: 364.19667pt x 127.83301pt.
+ [22 <./pred45.jpg> <./data76.png> <./pred76img.png> <./pred76.jpg>] [23 <./dat
+a88.png> <./pred88img.png> <./pred88.png>]
+./EED497_End_sem.tex:623: Undefined control sequence.
+l.623 ...ork and interact with the dataset at \url
+                                                  {https://ml-antenna-design...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./EED497_End_sem.tex:626: Undefined control sequence.
+l.626 ... model openly available on GitHub at \url
+                                                  {https://github.com/akshat...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<github.png, id=133, 1445.4pt x 670.505pt>
+File: github.png Graphic file (type png)
+<use github.png>
+Package pdftex.def Info: github.png  used on input line 632.
+(pdftex.def)             Requested size: 455.24411pt x 211.1795pt.
+[24 <./github.png>]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 639--641
+
+ []
+
+[25
+
+]
+Chapter 5.
+[26
+
+] [27]
+./EED497_End_sem.tex:691: Misplaced alignment tab character &.
+l.691 \newblock Indian Journal of Radio &
+                                          Space Physics, Vol. 37, June 2008.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./EED497_End_sem.tex:696: Misplaced alignment tab character &.
+l.696 ...ternational Journal of Machine Learning &
+                                                   Cybernetics.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[28
+
+] (./EED497_End_sem.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3252 strings out of 476025
+ 49366 string characters out of 5790016
+ 1958388 words of memory out of 5000000
+ 23655 multiletter control sequences out of 15000+600000
+ 522066 words of font info for 68 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,9n,62p,845b,293s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
+r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
+l/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/t
+exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
+ive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
+ve/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
+/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/
+2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2
+023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on EED497_End_sem.pdf (28 pages, 1759018 bytes).
+PDF statistics:
+ 220 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+
